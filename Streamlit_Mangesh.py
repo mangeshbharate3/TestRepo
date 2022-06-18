@@ -20,7 +20,7 @@ setuptools.setup(
 
     long_description_content_type="text/markdown",
 
-    url="https://github.com/authorname/templatepackage",
+    url="https://github.com/mangeshbharate3/TestRepo/blob/master/Streamlit_Mangesh.py",
 
     packages=setuptools.find_packages(),
 
